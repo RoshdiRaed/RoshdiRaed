@@ -16,12 +16,12 @@ or use it. It helps me a lot.
 <img src = ""/>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Roshdi;+Lead+Machine+Learning+Engineer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Open+Source+Contributor+✌;+Top+1%+in+GitHub+💡;+Building+Next+Gen+SaaS+🕵;+Jury+Member+and+Avid+Speaker+📢;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Roshdi;+Laravel+Developer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Developer+for+many+js+frameworks+✌;+Proficient+in+Nextjs+and+Reactjs+🕵;;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
 </p> 
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://github.com/roshdiraed"><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU"></a>
   
-Hey👋, I'm Roshdi Raed, a Tech Evangelist with a Curious Mind and Crisp Thinking who visions to foster the Next Generation. <br>
+Hey👋, I'm Roshdi Raed, A Full Stack Developer. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
   
@@ -67,64 +67,47 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 ### My Highlights
 
 🍁Building a Next Gen B2B & B2C Sustainable SaaS platform and Product Lead / Chapter Co-Lead / Lead ML Enginneer at Omdena. <br>
+  
 📰Project Featured on Streamlit, Partnership Manager at Omdena and awarded as Top 10 CTO's in India for Women Entreprenuer Magazine. <br>
+  
 📜Top Project : IoT-Spot at Social Summer Of Code, Best Project Admin at GirlScript Summer Of Code, Best Mentor at OpenCode, Best Mentor at JGEC Winter Of Code, Top #1 Mentee at WIE Winter Of Code, Best Mentor at Delta Winter Of Code and Best Supervisor at GirlScript Winter Of Contributing.<br>
-🚩Speaker, Jury Member and Mentor at wide array of Events, Conferences, Hackathons, Workshops and Podcasts around. <br>
+  
 🚀Project Maintainer for more than 10+ projects and Stands up in 4th position for contributions and 6th position for commits all over India from the list of Most Active GitHub Users(Top 1% Of GitHub). <br>
-👩‍Nominated as a WomenTech Global Award Nominee under Category : "Best Mentor Of The Year" and a "Jury Member" for Global StartUp Awards Africa & Euro Asia. <br>
-💡Worked on 7+ Real World AI Projects that showers impact on to the causes of local communities and 10+ various technical personal projects that focuses on use-case solutions based on Embedded Systems, Data Science, IoT and Web Development. <br>
-🎲Freelanced on diverse domain specific projects from IoT, Data Science and Web Development that interest clients and add value to their journey. <br>
-👑Hackathon Winner and Open Source Contributor for repositories belonging to personal, peers, learnings, communities and organizations projects. <br>
-📖Currently learning DevOps, Azure, Android Development and Blockchain. Post Graduate Diploma in IT Management at "Symbiosis Centre For Distance Learning". <br>
+ 
+💡Web Development. <br>
+  
+🎲Freelanced on diverse domain specific projects from UpWork <br>
 ⚡ Fun fact: I don't know driving <br>
 
 💪Passionate on exploring and upskilling myself💭, I believe in giving my best and adding worth to whatever task I take up📌. Life is too short to explore all and the more I learn, the more I grow💻. Currently, I'm building my online presence🛠 and doing my best to spread knowledge🎆 & mentor budding developers📝 who are starting out their journey into tech👋. Additionally travelling 🧳, music 🎼, reading📖, puzzles⚡ and spicy food😋 is what I like the most. <br>  
-
-### How Could I Add My Value? <br>
-
-📢Talks on Embedded Systems, IoT, Python, Data Science, GitHub, Google Cloud, Importance of Networking, Hackathons, How to Use LinkedIn Effectively, Open Source and Resume Building. <br>
-👯Collaborate on Projects related to Data Science, IoT, Applications on Python & Embedded C, Web Development. <br>
-🙌Mentor the students in promising fields that defines my forte - 1000+ students so far(Data Science, IoT, Web Development and Embedded Systems). <br>
-🖊Open for opportunities on authoring and reviewing technical & non technical content. Strong Command on English Writing and Communication Skills. <br>
 
 ### Keen To Interact with Me? <br>
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
 ▶️ Shoot me an email at kadariprathima4@gmail.com for official discussions. <br>
-▶️ Find me on [LinkedIn](https://www.linkedin.com/in/prathima-kadari/), [Twitter](https://twitter.com/prathimak88) and [Discord](https://discordapp.com/users/797471610327924778). <br>
+  
+▶️ Find me on [LinkedIn](https://www.linkedin.com/in/roshdi-raed-a01467219/), [Twitter](https://twitter.com/Roshdi_Raed)
+  
+<a href="https://github.com/roshdiraed"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
-<img align="right" height="250" src = "https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/MyOctocat.gif">
+<img align="right" height="250" src = "[https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Profile%20Assets/MyOctocat.gif](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)">
  
 ## Technical Skills ✔
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter&logoColor=007ACC)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-05122A?style=flat&logo=pycharm&logoColor=007ACC)&nbsp;
-![Colab](https://img.shields.io/badge/-Colab-05122A?style=flat&logo=Colab&logoColor=1572B6)&nbsp;
-![KeilUVision](https://img.shields.io/badge/-KeilUVision-05122A?style=flat&logo=keiluvision&logoColor=007ACC)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;\
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit&logoColor=1572B6)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker&logoColor=1572B6)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Azure&logoColor=1572B6)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)&nbsp;
-![Docklight](https://img.shields.io/badge/-Docklight-05122A?style=flat&logo=docklight)&nbsp;\
 ![Internet Of Things](https://img.shields.io/badge/-Internet%20Of%20Things-05122A?style=flat&logo=Internet-Of-Things&logoColor=007ACC)&nbsp;
-![Embedded System](https://img.shields.io/badge/-Embedded%20System-05122A?style=flat&logo=Embedded-System&logoColor=1572B6)&nbsp;
 ![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat&logo=Web-Development&logoColor=007ACC)&nbsp;\
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat&logo=Machine-Learning&logoColor=E34A86)&nbsp;
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-05122A?style=flat&logo=Computer-Vision)&nbsp;
@@ -155,35 +138,9 @@ I would like to connect with you, so don't hesitate to ping me🤝. If you are i
 </p> 
 
 
-## Open Source Projects-Open for Contributions 🥇 
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/prathimacode-hub) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub)
-| Project:octocat: | Stars✨| Forks🍴 | Issues🐛 | Open PRs:bell: | Closed PRs:fire: | Participated In |
-|-------------|-------------------|---|---|---|---|---|
-| [**IoT-Spot**](https://github.com/prathimacode-hub/IoT-Spot) | [![GitHub Stars](https://img.shields.io/github/stars/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/stars) | [![GitHub Forks](https://img.shields.io/github/forks/prathimacode-hub/IoT-Spot?style=flat-square&labelColor=343b41)](https://github.com/prathimacode-hub/IoT-Spot/forks) | [![GitHub Issues](https://img.shields.io/github/issues/prathimacode-hub/IoT-Spot?style=flat-square)](https://github.com/prathimacode-hub/IoT-Spot/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/prathimacode-hub/IoT-Spot?style=flat&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/prathimacode-hub/IoT-Spot?style=flat&color=critical&logo=github)](https://github.com/prathimacode-hub/IoT-Spot/pulls?q=is%3Apr+is%3Aclosed) | 2022 - [**GSSOC**](https://gssoc.girlscript.tech/) <br> 2021 - [**SWOC**](https://swoc.scriptindia.org/#/) & [**DWOC**](https://dwoc.io/) |
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 ## GitHub Statistics 📃
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prathimacode-hub&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" /> 
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathimacode-hub&theme=tokyonight" />
 </p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
