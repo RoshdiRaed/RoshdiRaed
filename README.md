@@ -84,7 +84,7 @@ You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/
 
 I would like to connect with you, so don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ <br>
 
-▶️ Shoot me an email at kadariprathima4@gmail.com for official discussions. <br>
+<!-- ▶️ Shoot me an email at roshdiraed@gmail.com for official discussions. <br> -->
   
 ▶️ Find me on [LinkedIn](https://www.linkedin.com/in/roshdi-raed-a01467219/), [Twitter](https://twitter.com/Roshdi_Raed)
   
