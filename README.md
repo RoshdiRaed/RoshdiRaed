@@ -18,7 +18,7 @@ or use it. It helps me a lot.
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Roshdi;+Laravel+Developer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Developer+for+many+js+frameworks+✌;+Proficient+in+Nextjs+and+Reactjs+🕵;;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
 </p> 
 
-<a href="https://github.com/roshdiraed"><img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png"></a>
+<a href="https://github.com/roshdiraed"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png"></a>
   
 Hey👋, I'm Roshdi Raed, A Full Stack Developer. <br>
 
