@@ -15,7 +15,7 @@ or use it. It helps me a lot.
 <h1 align="center">WELCOME TO MY GITHUB PROFILE👇 </h1>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Roshdi;+Laravel+Developer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Developer+for+many+js+frameworks+✌;+Proficient+in+Nextjs+and+Reactjs+🕵;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Roshdi;+Laravel+Developer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor+⌛;+Developer+for+many+js+frameworks+✌;+P+roficient+in+Nextjs+and+Reactjs+🕵;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
 </p> 
 
 <a href="https://github.com/roshdiraed"><img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo.png"></a>
