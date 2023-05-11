@@ -24,6 +24,13 @@ Hey👋, I'm Roshdi Raed, A Full Stack Developer. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
   
+  -----------------------------
+  
+  [![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=roshdiraed&show_icons=true&theme=dracula)](https://github.com/roshdiraed/github-readme-stats)
+
+  
+  -----------------------------
+  
 <!-- ## You Like What You See? Does It Excite You? 💪 <br>
   
 <table><tr>
