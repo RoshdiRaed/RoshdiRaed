@@ -24,12 +24,8 @@ Hey👋, I'm Roshdi Raed, A Full Stack Developer. <br>
 
 Until you Spread your wings, You'll never know how far you can fly!! <br>
   
-  -----------------------------
-  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshdiraed&show_icons=true&theme=radical)
 
-  -----------------------------
-  
 <!-- ## You Like What You See? Does It Excite You? 💪 <br>
   
 <table><tr>
