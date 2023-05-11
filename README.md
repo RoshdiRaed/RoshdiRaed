@@ -28,10 +28,6 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshdiraed&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roshdiraed&repo=github-readme-stats)](https://github.com/roshdiraed/github-readme-stats) 
-
-
-  
   -----------------------------
   
 <!-- ## You Like What You See? Does It Excite You? 💪 <br>
