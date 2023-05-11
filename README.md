@@ -26,9 +26,11 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
   
   -----------------------------
   
-  [![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=roshdiraed&show_icons=true&theme=dracula)](https://github.com/roshdiraed/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshdiraed&show_icons=true&theme=radical)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?roshdiraed=anuraghazra&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=roshdiraed&repo=github-readme-stats)](https://github.com/roshdiraed/github-readme-stats) 
+
+
   
   -----------------------------
   
