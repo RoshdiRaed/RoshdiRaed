@@ -1,9 +1,11 @@
-### Hi there 👋
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
 - 📃 My name Roshdi Raed's ✌
 - 💪 I work as a Software developer and programmer for java, php and javasciprt
 - 🔗 I work with several frameworks including react.js, vite.js, tailwindcss , Laravel and others 😎
+
+
 
 <!---
 Please consider starring the repo if you find this useful in any manner
@@ -66,6 +68,22 @@ Until you Spread your wings, You'll never know how far you can fly!! <br>
 You can sponsor 💰 me on my [Patreon]() & [Buy Me A Coffee]() profile. <br>
   
 You can support my work by [Buying me a Pizza🍕](https://www.buymeacoffee.com/prathimakadari) -->
+  
+  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/roshdiraed/">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshdiraed&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshdiraed&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="roshdiraed"/>
+
+</a>
+</div>
+
+<br>
+<br>
+<br>
  
 ## Technical Skills ✔
 
