@@ -20,7 +20,11 @@ or use it. It helps me a lot.
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Roshdi;+Laravel+Developer+🎲;+Loves+To+Build+Products+✨;+Data+Science+Mentor⌛;+Coding+for+many+js+frameworks✌;+ABuilding+Nextjs+and+Reactjs+App+🕵;+Project+Admin+and+Mentor+🤝;+Beta+Tester+and+Freelancer+⌚;">
 </p> 
 
+<!--
 <a href="https://github.com/roshdiraed"><img src="https://logodownload.org/wp-content/uploads/2019/08/github-logo.png"></a>
+-->
+
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
   
 Hey👋, I'm Roshdi Raed, A Full Stack Developer. <br>
 
