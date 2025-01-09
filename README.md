@@ -35,4 +35,4 @@
 ### ⭐ **Support & Connect**
 
 If you enjoy my work, please consider starring my repositories. It helps a lot and motivates me to keep creating! Feel free to connect with me for collaboration or mentorship.
-](https://dlc-cdn.sun.com/netbeans/8.2/final/bundles/netbeans-8.2-javaee-linux.sh)
+](github.com/roshdiraed)
