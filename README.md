@@ -1,4 +1,4 @@
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
+[## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
 
 ### 👋 Hey There, I'm Roshdi Raed!
 
@@ -32,16 +32,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="horizontal divider">
-</div>
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake animation">
-</div>
-
----
-
 ### ⭐ **Support & Connect**
 
 If you enjoy my work, please consider starring my repositories. It helps a lot and motivates me to keep creating! Feel free to connect with me for collaboration or mentorship.
+](https://dlc-cdn.sun.com/netbeans/8.2/final/bundles/netbeans-8.2-javaee-linux.sh)
