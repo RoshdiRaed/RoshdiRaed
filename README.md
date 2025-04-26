@@ -86,7 +86,7 @@ I'm **Roshdi Raed**, a passionate **Full-Stack Developer** with a strong belief 
 If you like my work or want to collaborate on meaningful projects, don’t hesitate to connect or reach out:
 
 - 📫 Email: roshdiraed@gmail.com
-- 💼 LinkedIn / Portfolio / Personal site: *[Add links if available]*  
+- 💼 LinkedIn / Portfolio / Personal site: https://highway.laravel.cloud
 - ⭐ GitHub: [github.com/RoshdiRaed](https://github.com/RoshdiRaed)
 
 > _"Until you spread your wings, you’ll never know how far you can fly!"_
